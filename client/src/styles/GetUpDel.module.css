@@ -1,0 +1,45 @@
+.back{
+    height: 100%;
+    
+}
+
+.back h1{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.container {
+    background: rgb(31, 31, 31);
+    
+    height: 500px;
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    text-align: center;
+    
+}
+
+.back button{
+    margin-top: 10px;
+}
+
+.flex{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex button, .btnDel button{
+    background: #ba181b;
+    margin-left: 10px;
+    
+}
+
+.flex input{
+    margin-top: 10px;
+    width: 130px;
+    height: 30px;
+}

@@ -1,0 +1,24 @@
+.fundo{
+  background: url(/fundo1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 757px;
+}
+
+.container {
+  
+    
+    display: flex;
+    justify-content: space-between;
+    color: #ba181b;  
+}
+
+.user{
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.gud{
+  margin-top: 100px;
+  margin-right: 100px;
+}
